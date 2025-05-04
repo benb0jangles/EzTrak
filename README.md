@@ -19,6 +19,8 @@ EZ-TRAK is a comprehensive satellite tracking suite designed for amateur radio o
 
 ### 1. EZ-TRAK Launcher (`eztrak_welcome.py`)
 
+![EZ-TRAK Welcome](https://github.com/benb0jangles/EzTrak/blob/main/img/Screenshot_welcome_small.png)
+
 A graphical interface to configure and launch the main applications:
 
 - Set your geographic location (latitude, longitude, altitude)

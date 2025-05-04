@@ -45,7 +45,7 @@ The main satellite tracking application:
 
 ![EZ-TRAK Rotator](https://github.com/benb0jangles/EzTrak/blob/main/img/Screenshot5_small.png)
 
-Optional application for controlling antenna rotators (if available).
+Optional application for controlling wifi + imu antenna rotator (if available).
 
 ## Installation
 

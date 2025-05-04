@@ -92,6 +92,7 @@ python eztrak_welcome.py
    - The circular display shows azimuth (compass direction) and elevation
    - The red dot shows the current position
    - Blue lines show predicted satellite passes
+   - Yellow dot shows satellite position along blue line track
    - Use recording functionality to track your antenna movement
 
 ![EZ-TRAK2](https://github.com/benb0jangles/EzTrak/blob/main/img/eztrak_img2small.jpg)

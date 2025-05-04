@@ -8,6 +8,8 @@ EZ-TRAK is a comprehensive satellite tracking suite designed for amateur radio o
 
 ## Features
 
+![EZ-TRAK4](https://youtube.com/shorts/h7VC1jnGNBc)
+
 - **Dynamic Satellite Tracking**: Track satellites in real-time with azimuth/elevation display
 - **Pass Prediction**: Calculate upcoming satellite passes for your location
 - **BLE Device Integration**: Seamlessly connects to EZ-TRAK BLE device

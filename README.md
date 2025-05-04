@@ -86,6 +86,11 @@ python eztrak_welcome.py
    - Blue lines show predicted satellite passes
    - Use recording functionality to track your antenna movement
 
+![EZ-TRAK2](https://github.com/benb0jangles/EzTrak/blob/main/img/eztrak_img2small.jpg)
+
+![EZ-TRAK3](https://github.com/benb0jangles/EzTrak/blob/main/img/eztrak1small.jpg).
+
+
 ## Troubleshooting
 
 ### Common Issues

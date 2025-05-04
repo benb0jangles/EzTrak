@@ -1,6 +1,6 @@
 # EZ-TRAK Satellite Hand Tracking Suite
 
-![EZ-TRAK Logo](images/ez-trak-logo.png)
+![EZ-TRAK Logo](https://github.com/benb0jangles/EzTrak/blob/main/img/eztrak3.jpg)
 
 ## Overview
 

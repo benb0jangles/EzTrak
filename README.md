@@ -8,7 +8,7 @@ EZ-TRAK is a comprehensive satellite tracking suite designed for amateur radio o
 
 ## Features
 
-![EZ-TRAK DEMO](https://youtube.com/shorts/48pHjzviJw0?feature=share)
+![EZ-TRAK DEMO](https://youtube.com/shorts/48pHjzviJw0)
 
 - **Dynamic Satellite Tracking**: Track satellites in real-time with azimuth/elevation display
 - **Pass Prediction**: Calculate upcoming satellite passes for your location

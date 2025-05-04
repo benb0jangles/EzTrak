@@ -31,6 +31,8 @@ A graphical interface to configure and launch the main applications:
 
 ### 2. Satellite Tracker (`eztrack.py`)
 
+![EZ-TRAK1](https://github.com/benb0jangles/EzTrak/blob/main/img/Screenshot4_small.png)
+
 The main satellite tracking application:
 
 - Visual polar plot showing real-time azimuth/elevation of your hand tracking antenna
@@ -40,6 +42,8 @@ The main satellite tracking application:
 - Automatic satellite data updates
 
 ### 3. Rotator Control (`eztrackrotator.py`)
+
+![EZ-TRAK Rotator](https://github.com/benb0jangles/EzTrak/blob/main/img/Screenshot5_small.png)
 
 Optional application for controlling antenna rotators (if available).
 

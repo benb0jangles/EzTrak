@@ -99,6 +99,10 @@ python eztrak_welcome.py
 
 ![EZ-TRAK3](https://github.com/benb0jangles/EzTrak/blob/main/img/eztrak1small.jpg).
 
+For those wondering what antenna I am using:
+
+![Farabrella1](https://github.com/benb0jangles/EzTrak/blob/main/img/folded_small.jpg).
+
 
 ## Troubleshooting
 
@@ -120,7 +124,7 @@ The application logs information to the serial console which can be helpful for 
 
 The EZ-TRAK BLE device is available from [Ez-Trak sales page](coming-soon). This compact device:
 
-- Interfaces with Farabrella satellite antenna [Buy a Farabrella here](https://www.ebay.co.uk/itm/204232411345) to provide positional data
+- Interfaces with Farabrella satellite antenna [Buy a Farabrella here](https://www.ebay.co.uk/sch/i.html?_nkw=farabrella&_sacat=0&_from=R40&_trksid=p2332490.m570.l1313) to provide positional data
 - Connects via Bluetooth Low Energy
 - Battery-powered for field operation
 - Simple button interface for recording and resetting

@@ -4,6 +4,9 @@
 
 ## Overview
 
+![EZ-TRAK v1](https://github.com/benb0jangles/EzTrak/blob/main/img/IMG_20250515_022915%20(Phone).jpg)
+
+
 EZ-TRAK is a comprehensive satellite tracking suite designed for amateur radio operators, weather satellite enthusiasts, and educational purposes. The software interfaces with an EZ-TRAK BLE device which is mounted to a lightweight foldable portable satellite dish antenna to hand track satellites in real-time, providing azimuth and elevation data for optimal antenna positioning.
 
 ## Features

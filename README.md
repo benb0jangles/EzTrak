@@ -70,8 +70,8 @@ pip install bleak matplotlib skyfield numpy requests
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/benb0jangles/EZ-TRAK.git
-cd EZ-TRAK
+git clone https://github.com/benb0jangles/EzTrak.git
+cd EzTrak
 ```
 
 2. Run the launcher application (nerfed demo version):

@@ -74,7 +74,7 @@ git clone https://github.com/benb0jangles/EZ-TRAK.git
 cd EZ-TRAK
 ```
 
-2. Run the launcher application (nuked demo version):
+2. Run the launcher application (nerfed demo version):
 ```bash
 python eztrak_welcome.py
 ```
